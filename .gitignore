@@ -1,3 +1,5 @@
-.ipynb_checkpoints/
-Data/Audio/
+# Ignore audio files
+Data/**/Audio/
 *.wav
+
+.ipynb_checkpoints/
